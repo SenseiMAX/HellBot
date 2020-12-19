@@ -13,21 +13,21 @@ else:
 kraken = bot.uid
 
 PM_IMG = "https://telegra.ph/file/80e5200c615cf0cb57aa9.mp4"
-pm_caption = "__**🔥🔥ɦɛʟʟɮօt ɨs օռʟɨռɛ🔥🔥**__\n\n"
+pm_caption = "__**🔥🔥ɦɛʟʟɮօt remix ɨs օռʟɨռɛ🔥🔥**__\n\n"
 
 pm_caption += (
     f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
 )
 
-pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
+pm_caption += "🔱─ᴛᴇʟᴇᴛʜᴏɴ─🔱 : `1.15.0` \n"
 
-pm_caption += f"😈Hêllẞø†😈       : __**{hellversion}**__\n"
+pm_caption += f"😈Hêllẞø† remix😈       : __**{hellversion}**__\n"
 
 pm_caption += f"⚜️Sudo⚜️            : `{sudou}`\n"
 
 pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/HellBot_Official)\n"
 
-pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/kraken_the_badass)\n\n"
+pm_caption += "🔥RECREATOR🔥    : [Nub Here](https://t.me/sensei_nex)\n\n"
 
 pm_caption += "    [✨REPO✨](https://github.com/hellboy-op/hellbot) 🔹 [📜License📜](https://github.com/HellBoy-OP/HellBot/blob/master/LICENSE)"
 
